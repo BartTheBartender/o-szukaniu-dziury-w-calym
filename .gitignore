@@ -1,5 +1,9 @@
 *
+!.gitignore
 !labs/
 !labs/*
-!.gitignore
-
+labs/datasaurus/
+!latex/
+!latex/references.bib
+!latex/main.tex
+!latex/main.pdf
