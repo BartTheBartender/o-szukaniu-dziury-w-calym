@@ -6,15 +6,16 @@
 !latex/references.bib
 !latex/main.tex
 !latex/main.pdf
-!python/
-!python/*
-python/__pycache__/
+!complex-visualization/
+!complex-visualization/*
+complex-visualization/__pycache__/
 !setup.ipynb
 !keys/
 keys/*
 *.DS_Store
 !labs/data/
 labs/data/*
+!labs/data/.gitkeep
 !labs/encrypted-data/
 !labs/encrypted-data/*
 
