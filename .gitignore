@@ -14,8 +14,4 @@ complex-visualization/__pycache__/
 keys/*
 *.DS_Store
 !labs/data/
-labs/data/*
-!labs/data/.gitkeep
-!labs/encrypted-data/
-!labs/encrypted-data/*
-
+!labs/data/*
