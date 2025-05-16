@@ -13,3 +13,8 @@ python/__pycache__/
 !keys/
 keys/*
 *.DS_Store
+!labs/data/
+labs/data/*
+!labs/encrypted-data/
+!labs/encrypted-data/*
+
