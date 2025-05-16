@@ -7,3 +7,6 @@ labs/datasaurus/
 !latex/references.bib
 !latex/main.tex
 !latex/main.pdf
+!python/
+!python/*
+python/__pycache__/
