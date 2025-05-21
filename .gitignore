@@ -7,6 +7,8 @@
 !latex/references.bib
 !latex/main.tex
 !latex/main.pdf
+!latex/images/
+!latex/images/*.png
 
 !complex-visualization/
 !complex-visualization/*
